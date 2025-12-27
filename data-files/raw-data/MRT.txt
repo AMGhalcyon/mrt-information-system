@@ -1,0 +1,170 @@
+MRT Stations and Schedule Data
+
+No.;Station Pair;Line;Distance;First;Last;First opp;Last opp
+1;CC1 Dhoby Ghaut <-> CC2 Bras Basah;Circle;0.6;0607;2357;0554;0003
+2;CC2 Bras Basah <-> CC3 Esplanade;Circle;0.7;0539;2250;0552;0001
+3;CC3 Esplanade <-> CC4 Promenade;Circle;0.8;0541;2251;0550;2359
+4;CC4 Promenade <-> CC5 Nicoll Highway;Circle;0.8;0543;2254;0548;2357
+5;CC4 Promenade <-> CE1 Bayfront;Circle;1.3;0615;2348;0617;2351
+6;CC5 Nicoll Highway <-> CC6 Stadium;Circle;1.5;0545;2256;0545;2354
+7;CC6 Stadium <-> CC7 Mountbatten;Circle;0.9;0547;2258;0544;2353
+8;CC7 Mountbatten <-> CC8 Dakota;Circle;0.7;0535;2300;0542;2351
+9;CC8 Dakota <-> CC9 Paya Lebar;Circle;1.2;0537;2301;0540;2349
+10;CC9 Paya Lebar <-> CC10 MacPherson;Circle;1.1;0540;2304;0537;2346
+11;CC10 MacPherson <-> CC11 Tai Seng;Circle;1.0;0542;2306;0535;2344
+12;CC11 Tai Seng <-> CC12 Bartley;Circle;1.3;0544;2308;0547;2342
+13;CC12 Bartley <-> CC13 Serangoon;Circle;1.3;0516;2310;0544;2340
+14;CC13 Serangoon <-> CC14 Lorong Chuan;Circle;0.9;0518;2313;0542;2338
+15;CC14 Lorong Chuan <-> CC15 Bishan;Circle;1.7;0520;2315;0540;2335
+16;CC15 Bishan <-> CC16 Marymount;Circle;1.6;0523;2318;0537;2332
+17;CC16 Marymount <-> CC17 Caldecott;Circle;1.2;0525;2320;0534;2330
+18;CC17 Caldecott <-> CC19 Botanic Gardens;Circle;3.9;0528;2323;0545;2325
+19;CC19 Botanic Gardens <-> CC20 Farrer Road;Circle;1.0;0532;2327;0543;2323
+20;CC20 Farrer Road <-> CC21 Holland Village;Circle;1.4;0534;2329;0540;2321
+21;CC21 Holland Village <-> CC22 Buona Vista;Circle;0.9;0537;2331;0539;2319
+22;CC22 Buona Vista <-> CC23 One-north;Circle;0.8;0539;2334;0536;2317
+23;CC23 One-north <-> CC24 Kent Ridge;Circle;0.8;0541;2335;0535;2315
+24;CC24 Kent Ridge <-> CC25 Haw Par Villa;Circle;1.4;0535;2337;0532;2312
+25;CC25 Haw Par Villa <-> CC26 Pasir Panjang;Circle;1.3;0538;2340;0530;2310
+26;CC26 Pasir Panjang <-> CC27 Labrador Park;Circle;1.4;0540;2342;0534;2308
+27;CC27 Labrador Park <-> CC28 Telok Blangah;Circle;0.8;0542;2344;0532;2306
+28;CC28 Telok Blangah <-> CC29 Harbour Front;Circle;1.5;0544;2346;0530;2303
+29;CE2 Marina Bay <-> CE1 Bayfront;Circle;0.8;0559;2355;0617;2351
+30;DT1 Bukit Panjang <-> DT2 Cashew;Downtown;1.2;0530;2335;0614;0046
+31;DT2 Cashew <-> DT3 Hillview;Downtown;0.9;0532;2337;0613;0045
+32;DT3 Hillview <-> DT4 Hume;Downtown;0.7;0534;2338;0611;0043
+33;DT4 Hume <-> DT5 Beauty World;Downtown;1.9;0535;2340;0608;0040
+34;DT5 Beauty World <-> DT6 King Albert Park;Downtown;1.2;0537;2342;0606;0038
+35;DT6 King Albert Park <-> DT7 Sixth Avenue;Downtown;1.6;0539;2344;0604;0036
+36;DT7 Sixth Avenue <-> DT8 Tan Kah Kee;Downtown;1.3;0542;2346;0602;0034
+37;DT8 Tan Kah Kee <-> DT9 Botanic Gardens;Downtown;1.1;0544;2348;0600;0032
+38;DT9 Botanic Gardens <-> DT10 Stevens;Downtown;1.1;0546;2350;0558;0030
+39;DT10 Stevens <-> DT11 Newton;Downtown;1.6;0548;2353;0556;0028
+40;DT11 Newton <-> DT12 Little India;Downtown;1.4;0551;2355;0606;0026
+41;DT12 Little India <-> DT13 Rochor;Downtown;0.5;0553;2358;0605;0024
+42;DT13 Rochor <-> DT14 Bugis;Downtown;0.8;0555;2359;0603;0022
+43;DT14 Bugis <-> DT15 Promenade;Downtown;0.9;0557;0001;0617;0020
+44;DT15 Promenade <-> DT16 Bayfront;Downtown;1.3;0600;0003;0615;0018
+45;DT16 Bayfront <-> DT17 Downtown;Downtown;0.9;0602;0005;0613;0016
+46;DT17 Downtown <-> DT18 Telok Ayer;Downtown;0.6;0604;0007;0611;0015
+47;DT18 Telok Ayer <-> DT19 Chinatown;Downtown;0.6;0606;0008;0610;0014
+48;DT19 Chinatown <-> DT20 Fort Canning;Downtown;1.0;0608;0010;0608;0011
+49;DT20 Fort Canning <-> DT21 Bencoolen;Downtown;1.0;0610;0012;0606;0010
+50;DT21 Bencoolen <-> DT22 Jalan Besar;Downtown;0.9;0612;0013;0604;0008
+51;DT22 Jalan Besar <-> DT23 Bendemeer;Downtown;1.3;0613;0015;0602;0006
+52;DT23 Bendemeer <-> DT24 Geylang Bahru;Downtown;1.4;0615;0017;0600;0004
+53;DT24 Geylang Bahru <-> DT25 Mattar;Downtown;1.5;0559;0019;0558;0002
+54;DT25 Mattar <-> DT26 MacPherson;Downtown;0.8;0601;0022;0556;0000
+55;DT26 MacPherson <-> DT27 Ubi;Downtown;1.1;0603;0024;0554;2358
+56;DT27 Ubi <-> DT28 Kaki Bukit;Downtown;1.2;0605;0025;0552;2356
+57;DT28 Kaki Bukit <-> DT29 Bedok North;Downtown;1.1;0607;0027;0550;2354
+58;DT29 Bedok North <-> DT30 Bedok Reservoir;Downtown;1.8;0609;0029;0548;2351
+59;DT30 Bedok Reservoir <-> DT31 Tampines West;Downtown;1.7;0611;0031;0545;2349
+60;DT31 Tampines West <-> DT32 Tampines;Downtown;1.3;0613;0034;0543;2347
+61;DT32 Tampines <-> DT33 Tampines East;Downtown;1.4;0616;0036;0541;2345
+62;DT33 Tampines East <-> DT34 Upper Changi;Downtown;2.6;0618;0038;0538;2341
+63;DT34 Upper Changi <-> DT35 Expo;Downtown;0.9;0621;0041;0536;2340
+64;EW1 Pasir Ris <-> EW2 Tampines;East-West;2.4;0528;2323;0521;0037
+65;EW2 Tampines <-> EW3 Simei;East-West;1.4;0531;2326;0519;0034
+66;EW3 Simei <-> EW4 Tanah Merah;East-West;2.5;0533;2328;0516;0031
+67;EW4 Tanah Merah <-> EW5 Bedok;East-West;1.9;0536;2321;0618;0029
+68;CG Tanah Merah <-> CG1 Expo;East-West;1.9;0520;2350;0536;2323
+69;CG1 Expo <-> CG2 Changi Airport;East-West;4.5;0523;2354;0531;2318
+70;EW5 Bedok <-> EW6 Kembangan;East-West;2.0;0539;2334;0615;0026
+71;EW6 Kembangan <-> EW7 Eunos;East-West;1.1;0542;2337;0613;0024
+72;EW7 Eunos <-> EW8 Paya Lebar;East-West;1.1;0544;2339;0611;0022
+73;EW8 Paya Lebar <-> EW9 Aljunied;East-West;1.2;0546;2341;0609;0020
+74;EW9 Aljunied <-> EW10 Kallang;East-West;1.4;0548;2343;0607;0018
+75;EW10 Kallang <-> EW11 Lavender;East-West;1.1;0550;2345;0605;0016
+76;EW11 Lavender <-> EW12 Bugis;East-West;1.1;0552;2347;0603;0014
+77;EW12 Bugis <-> EW13 City Hall;East-West;1.0;0554;2349;0601;0011
+78;EW13 City Hall <-> EW14 Raffles Place;East-West;1.0;0557;2352;0559;0009
+79;EW14 Raffles Place <-> EW15 Tanjong Pagar;East-West;1.2;0559;2358;0556;0006
+80;EW15 Tanjong Pagar <-> EW16 Outram Park;East-West;1.0;0602;0001;0554;0004
+81;EW16 Outram Park <-> EW17 Tiong Bahru;East-West;1.5;0604;0004;0551;0001
+82;EW17 Tiong Bahru <-> EW18 Redhill;East-West;1.2;0607;0006;0549;2359
+83;EW18 Redhill <-> EW19 Queenstown;East-West;1.4;0609;0008;0546;2357
+84;EW19 Queenstown <-> EW20 Commonwealth;East-West;1.2;0611;0011;0545;2355
+85;EW20 Commonwealth <-> EW21 Buona Vista;East-West;1.1;0613;0013;0543;2353
+86;EW21 Buona Vista <-> EW22 Dover;East-West;1.4;0616;0015;0540;2351
+87;EW22 Dover <-> EW23 Clementi;East-West;1.7;0618;0017;0538;2349
+88;EW23 Clementi <-> EW24 Jurong East;East-West;3.5;0621;0020;0543;2345
+89;EW24 Jurong East <-> EW25 Chinese Garden;East-West;1.5;0514;0025;0540;2342
+90;EW25 Chinese Garden <-> EW26 Lakeside;East-West;1.4;0517;0027;0538;2340
+91;EW26 Lakeside <-> EW27 Boon Lay;East-West;1.8;0519;0029;0536;2338
+92;EW27 Boon Lay <-> EW28 Pioneer;East-West;0.9;0521;0032;0534;2336
+93;EW28 Pioneer <-> EW29 Joo Koon;East-West;2.6;0523;0034;0531;2332
+94;EW29 Joo Koon <-> EW30 Gul Circle;East-West;2.3;0527;0038;0526;2327
+95;EW30 Gul Circle <-> EW31 Tuas Crescent;East-West;1.7;0530;0041;0523;2324
+96;EW31 Tuas Crescent <-> EW32 Tuas West Road;East-West;1.4;0532;0043;0521;2322
+97;EW32 Tuas West Road <-> EW33 Tuas Link;East-West;1.3;0534;0045;0519;2320
+98;NE1 Harbour Front <-> NE3 Outram Park;North East;2.6;0547;2355;0612;2358
+99;NE3 Outram Park <-> NE4 Chinatown;North East;0.7;0548;2359;0610;2356
+100;NE4 Chinatown <-> NE5 Clarke Quay;North East;0.6;0549;0001;0608;2355
+101;NE5 Clarke Quay <-> NE6 Dhoby Ghaut;North East;1.4;0551;0002;0606;2352
+102;NE6 Dhoby Ghaut <-> NE7 Little India;North East;1.0;0553;0005;0604;2350
+103;NE7 Little India <-> NE8 Farrer Park;North East;0.8;0556;0007;0602;2348
+104;NE8 Farrer Park <-> NE9 Boon Keng;North East;1.2;0557;0009;0600;2346
+105;NE9 Boon Keng <-> NE10 Potong Pasir;North East;1.6;0559;0011;0558;2344
+106;NE10 Potong Pasir <-> NE11 Woodleigh;North East;0.9;0602;0013;0556;2342
+107;NE11 Woodleigh <-> NE12 Serangoon;North East;1.2;0604;0015;0554;2340
+108;NE12 Serangoon <-> NE13 Kovan;North East;1.7;0606;0017;0551;2337
+109;NE13 Kovan <-> NE14 Hougang;North East;1.5;0608;0020;0549;2335
+110;NE14 Hougang <-> NE15 Buangkok;North East;1.3;0611;0023;0546;2332
+111;NE15 Buangkok <-> NE16 Sengkang;North East;1.1;0613;0025;0544;2330
+112;NE16 Sengkang <-> NE17 Punggol;North East;1.7;0533;0027;0542;2328
+113;NE17 Punggol <-> NE18 Punggol Coast;North East;1.6;0536;0030;0539;2325
+114;NS1 Jurong East <-> NS2 Bukit Batok;North-South;2.1;0516;2246;0545;0055
+115;NS2 Bukit Batok <-> NS3 Bukit Gombak;North-South;1.2;0519;2250;0543;0052
+116;NS3 Bukit Gombak <-> NS4 Choa Chu Kang;North-South;3.3;0521;2252;0540;0049
+117;NS4 Choa Chu Kang <-> NS5 Yew Tee;North-South;1.4;0525;2255;0537;0046
+118;NS5 Yew Tee <-> NS7 Kranji;North-South;4.1;0527;2258;0543;0041
+119;NS7 Kranji <-> NS8 Marsiling;North-South;1.7;0522;2306;0541;0038
+120;NS8 Marsiling <-> NS9 Woodlands;North-South;1.5;0524;2309;0538;0036
+121;NS9 Woodlands <-> NS10 Admiralty;North-South;1.7;0527;2312;0535;0033
+122;NS10 Admiralty <-> NS11 Sembawang;North-South;2.4;0530;2316;0531;0029
+123;NS11 Sembawang <-> NS12 Canberra;North-South;1.5;0534;2319;0529;0031
+124;NS12 Canberra <-> NS13 Yishun;North-South;1.7;0535;2317;0527;0025
+125;NS13 Yishun <-> NS14 Khatib;North-South;1.4;0524;2323;0525;0023
+126;NS14 Khatib <-> NS15 Yio Chu Kang;North-South;4.9;0526;2325;0520;0017
+127;NS15 Yio Chu Kang <-> NS16 Ang Mo Kio;North-South;1.5;0531;2331;0517;0015
+128;NS16 Ang Mo Kio <-> NS17 Bishan;North-South;2.4;0534;2334;0608;0012
+129;NS17 Bishan <-> NS18 Braddell;North-South;1.2;0537;2337;0606;0009
+130;NS18 Braddell <-> NS19 Toa Payoh;North-South;0.9;0539;2339;0604;0008
+131;NS19 Toa Payoh <-> NS20 Novena;North-South;1.5;0541;2340;0601;0005
+132;NS20 Novena <-> NS21 Newton;North-South;1.2;0544;2343;0559;0003
+133;NS21 Newton <-> NS22 Orchard;North-South;1.2;0546;2345;0611;0000
+134;NS22 Orchard <-> NS23 Somerset;North-South;1.0;0549;2347;0609;2358
+135;NS23 Somerset <-> NS24 Dhoby Ghaut;North-South;0.8;0551;2349;0607;2357
+136;NS24 Dhoby Ghaut <-> NS25 City Hall;North-South;1.0;0552;2350;0605;2355
+137;NS25 City Hall <-> NS26 Raffles Place;North-South;1.0;0554;2352;0603;2353
+138;NS26 Raffles Place <-> NS27 Marina Bay;North-South;1.0;0557;2354;0601;2350
+139;NS27 Marina Bay <-> NS28 Marina South Pier;North-South;1.4;0601;2350;0605;2356
+140;TE1 Woodlands North <-> TE2 Woodlands;Thomson-East Coast;1.4;0536;2330;0539;0042
+141;TE2 Woodlands <-> TE3 Woodlands South;Thomson-East Coast;1.4;0538;2333;0536;0040
+142;TE3 Woodlands South <-> TE4 Springleaf;Thomson-East Coast;4.4;0540;2335;0604;0035
+143;TE4 Springleaf <-> TE5 Lentor;Thomson-East Coast;2.6;0538;2339;0601;0032
+144;TE5 Lentor <-> TE6 Mayflower;Thomson-East Coast;1.7;0541;2342;0559;0030
+145;TE6 Mayflower <-> TE7 Bright Hill;Thomson-East Coast;1.1;0544;2345;0557;0028
+146;TE7 Bright Hill <-> TE8 Upper Thomson;Thomson-East Coast;1.4;0545;2347;0554;0026
+147;TE8 Upper Thomson <-> TE9 Caldecott;Thomson-East Coast;2.2;0548;2349;0552;0023
+148;TE9 Caldecott <-> TE11 Stevens;Thomson-East Coast;3.0;0548;2352;0559;0019
+149;TE11 Stevens <-> TE12 Napier;Thomson-East Coast;1.7;0551;2356;0556;0016
+150;TE12 Napier <-> TE13 Orchard Boulevard;Thomson-East Coast;0.9;0554;2359;0554;0014
+151;TE13 Orchard Boulevard <-> TE14 Orchard;Thomson-East Coast;1.0;0556;0001;0552;0013
+152;TE14 Orchard <-> TE15 Great World;Thomson-East Coast;1.0;0555;0003;0610;0010
+153;TE15 Great World <-> TE16 Havelock;Thomson-East Coast;0.7;0557;0005;0609;0009
+154;TE16 Havelock <-> TE17 Outram Park;Thomson-East Coast;1.0;0559;0007;0607;0007
+155;TE17 Outram Park <-> TE18 Maxwell;Thomson-East Coast;0.6;0556;0009;0606;0005
+156;TE18 Maxwell <-> TE19 Shenton Way;Thomson-East Coast;0.8;0558;0010;0604;0003
+157;TE19 Shenton Way <-> TE20 Marina Bay;Thomson-East Coast;0.7;0559;0012;0602;0002
+158;TE20 Marina Bay <-> TE22 Gardens by the Bay;Thomson-East Coast;1.7;0601;0014;0600;2359
+159;TE22 Gardens by the Bay <-> TE23 Tanjong Rhu;Thomson-East Coast;2.7;0557;0017;0604;2355
+160;TE23 Tanjong Rhu <-> TE24 Katong Park;Thomson-East Coast;1.5;0600;0021;0602;2352
+161;TE24 Katong Park <-> TE25 Tanjong Katong;Thomson-East Coast;1.2;0603;0023;0600;2350
+162;TE25 Tanjong Katong <-> TE26 Marine Parade;Thomson-East Coast;1.1;0605;0025;0558;2348
+163;TE26 Marine Parade <-> TE27 Marine Terrace;Thomson-East Coast;1.0;0607;0027;0556;2346
+164;TE27 Marine Terrace <-> TE28 Siglap;Thomson-East Coast;1.7;0603;0029;0558;2344
+165;TE28 Siglap <-> TE29 Bayshore;Thomson-East Coast;1.3;0605;0031;0556;2342
+
+

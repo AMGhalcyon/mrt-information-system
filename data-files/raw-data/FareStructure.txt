@@ -1,0 +1,64 @@
+MRT and LRT Fare Structure
+
+Adult Fare
+Distance;Card Fare Per Ride (cents)
+Up to 3.2 km;119
+3.3 km - 4.2 km;129
+4.3 km - 5.2 km;140
+5.3 km - 6.2 km;150
+6.3 km - 7.2 km;159
+7.3 km - 8.2 km;166
+8.3 km - 9.2 km;173
+9.3 km - 10.2 km;177
+10.3 km - 11.2 km;181
+11.3 km - 12.2 km;185
+12.3 km - 13.2 km;189
+13.3 km - 14.2 km;193
+14.3 km - 15.2 km;198
+15.3 km - 16.2 km;202
+16.3 km - 17.2 km;206
+17.3 km - 18.2 km;210
+18.3 km - 19.2 km;214
+19.3 km - 20.2 km;217
+20.3 km - 21.2 km;220
+21.3 km - 22.2 km;223
+22.3 km - 23.2 km;226
+23.3 km - 24.2 km;228
+24.3 km - 25.2 km;230
+25.3 km - 26.2 km;232
+26.3 km - 27.2 km;233
+27.3 km - 28.2 km;234
+28.3 km - 29.2 km;235
+29.3 km - 30.2 km;236
+30.3 km - 31.2 km;237
+31.3 km - 32.2 km;238
+32.3 km - 33.2 km;239
+33.3 km - 34.2 km;240
+34.3 km - 35.2 km;241
+35.3 km - 36.2 km;242
+36.3 km - 37.2 km;243
+37.3 km - 38.2 km;244
+38.3 km - 39.2 km;245
+39.3 km - 40.2 km;246
+Over 40.2 km;247
+
+Senior Citizen / Persons with Disabilities Fare
+Distance;Card Fare Per Ride (cents)
+Up to 3.2 km;69
+3.3 km - 4.2 km;76
+4.3 km - 5.2 km;84
+5.3 km - 6.2 km;91
+6.3 km - 7.2 km;97
+Over 7.2 km;103
+
+Student Fare
+Distance;Card Fare Per Ride (cents)
+Up to 3.2 km;52
+3.3 km - 4.2 km;57
+4.3 km - 5.2 km;63
+5.3 km - 6.2 km;68
+6.3 km - 7.2 km;71
+Over 7.2 km;74
+
+
+
